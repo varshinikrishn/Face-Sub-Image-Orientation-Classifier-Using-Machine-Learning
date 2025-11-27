@@ -1,0 +1,2 @@
+# ace-Sub-Image-Orientation-Classifier-Using-Machine-Learning
+A machine learning pipeline to classify the orientation of facial sub-images (30x30, 50x50, 90x90 pixels) from the "Labeled Faces in the Wild" dataset.   The system generates rotated sub-images from full face images, trains separate scikit-learn classifiers for each sub-image size, and evaluates performance against a standardized test set. 
